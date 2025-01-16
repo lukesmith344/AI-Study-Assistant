@@ -15,3 +15,21 @@ An AI-powered study assistant that can take notes, generate flashcards, and expl
 
   '''bash
   git clone https://github.com/lukesmith344/AI-Study-Assistant.git
+  pip install -r requirements.txt
+
+## Usage
+
+To run the application, execute the following command:
+
+'''bash
+python3 ai_assistant.py
+
+## Example
+
+Here's how you might use this application:
+
+1. Paste your notes into the input area
+2. Select the number of flashcards you'd like
+3. Press **Create Flashcards** to generate the flashcards
+4. Use the next, previous, and flip buttons to cycle through the flashcards
+5. Press the explain button to receive a simple explanation of the current flashcard
